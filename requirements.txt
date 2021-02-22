@@ -1,0 +1,6 @@
+urllib3
+concurrent
+requests
+sys
+time
+colorama
